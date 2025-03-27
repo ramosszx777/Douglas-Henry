@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #333; color: #fff; padding: 20px; }
+        section { padding: 20px; }
+        .projeto { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Portfólio</h1>
+    </header>
+    <section>
+        <h2>Sobre Mim</h2>
+        <p>Sou um desenvolvedor apaixonado por tecnologia e inovação.</p>
+    </section>
+    <section>
+        <h2>Projetos</h2>
+        <div class="projeto">
+            <h3>Projeto 1</h3>
+            <p>Descrição do projeto.</p>
+        </div>
+        <div class="projeto">
+            <h3>Projeto 2</h3>
+            <p>Descrição do projeto.</p>
+        </div>
+    </section>
+    <footer>
+        <p>Contato: meuemail@example.com</p>
+    </footer>
+</body>
+</html>
+
